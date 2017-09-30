@@ -1,4 +1,4 @@
-title: API
+title: Uber
 ---
 This documentation provides more detailed information about the API and will be particularly helpful for people who want to modify the Hexo source code or write new plugins. If you are interested in more basic usage of Hexo, please refer to the [docs](../docs) instead.
 

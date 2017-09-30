@@ -19,14 +19,19 @@ page:
   prev: Prev
   next: Next
   last_updated: "Last updated: %s"
-  lyft: Lyft
-  uber: Uber
 
 sidebar:
   lyft:
     getting_started: Getting Started
     box: Box
+    box: Box
+    box: Box
+    box: Box
   uber:
+    getting_started: Getting Started
+    box: Box
+    box: Box
+    box: Box
     box: Box
   docs:
     getting_started: Getting Started
