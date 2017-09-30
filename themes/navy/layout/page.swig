@@ -8,6 +8,7 @@
               <header class="article-header">
                 <h1 class="article-title" itemprop="name">{{ page.title }}</h1>
               </header>
+              {{ partial('partial/adsense') }}
               <div class="article-content" itemprop="articleBody">
                 {{ page_anchor(page.content) }}
               </div>
