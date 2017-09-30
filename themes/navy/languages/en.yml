@@ -5,6 +5,7 @@ menu:
   plugins: Plugins
   themes: Themes
   search: Search
+  home: Home
 
 index:
   get_started: Get started
