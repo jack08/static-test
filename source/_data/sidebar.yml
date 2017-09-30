@@ -26,7 +26,7 @@ docs:
     troubleshooting: troubleshooting.html
     contributing: contributing.html
 
-api:
+lyft:
   core:
     overview: index.html
     events: events.html
