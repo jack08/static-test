@@ -1,64 +1,35 @@
-title: Lyft
+title: 6 Reasons to Drive With Lyft
 comments: false
 ---
-This documentation provides more detailed information about the API and will be particularly helpful for people who want to modify the Hexo source code or write new plugins. If you are interested in more basic usage of Hexo, please refer to the [docs](../docs) instead.
+Finding the perfect job these days can be, well, difficult — which might even be an understatement for some on the hunt. But if flexibility and fast cash are requirements on your list, then we might have your answer: Drive with Lyft. Here’s why:
 
-Please note that this documentation is only valid for Hexo 3 and above.
+### Drive When You Want
 
-## Initialize
+To drive or not to drive? It’s really up to you. If you have a slow month at work, make up for it by driving with Lyft. Or if you’re planning a trip next month and want some extra money, just drive around your work schedule. There are no set hours to work — just open the Lyft app and accept rides when you’re ready. Lyft’s flexibility makes earning cash easy.
 
-First, we have to create a Hexo instance. A new instance takes two arguments: the root directory of the website, `base_dir`, and an object containing the initialization options. Next, we initialize this instance by calling the `init` method on it, which will then cause Hexo to load its configuration and plugins.
+### Keep All of Your Tips
 
-``` js
-var Hexo = require('hexo');
-var hexo = new Hexo(process.cwd(), {});
+Simply put: Lyft drivers get 100 percent of their tips. Plus, tipping is done through the app so there’s no need to ask for tips from passengers.
 
-hexo.init().then(function(){
-  // ...
-});
-```
+### Receive Feedback
 
-Option | Description | Default
---- | --- | ---
-`debug` | Enable debug mode. Display debug messages in the terminal and save `debug.log` in the root directory. | `false`
-`safe` | Enable safe mode. Don't load any plugins. | `false`
-`silent` | Enable silent mode. Don't display any messages in the terminal. | `false`
-`config` | Specify the path of the configuration file. | `_config.yml`
+Once a ride is done, passengers and drivers can rate each other, so you can learn from each ride you give. Now, that’s effective!
 
-## Load Files
+### Discover New Places and Friends
 
-Hexo provides two methods for loading files: `load` and `watch`. `load` is used for loading all files in the `source` folder as well as the theme data. `watch` does the same things `load` does, but will also start watching for file changes continuously.
+Want to meet new people and see new places? If you drive with Lyft, you can make friends and visit parts of the city you may not have seen otherwise. With Lyft, every ride can be an adventure.
 
-Both methods will load the list of files and pass them to the corresponding processors. After all files have been processed, they will call upon the generators to create the routes.
+### Boost Your Earnings
 
-``` js
-hexo.load().then(function(){
-  // ...
-});
+Get rewarded for going the extra mile. The Power Driver Bonus can increase your earnings by 20 percent each week for hitting certain milestones. Prime Time adds to your pay if you drive when there’s a ton of passengers.
 
-hexo.watch().then(function(){
-  // You can call hexo.unwatch() later to stop watching.
-});
-```
+### Get Paid Faster
 
-## Execute Commands
+You no longer have to count down the days until payday when you drive with Lyft. Drivers who reach at least $50 in earnings can get paid quickly with Express Pay — receiving their cash in as little as a few hours.
 
-Any console command can be called explicitly using the `call` method on the Hexo instance. Such a call takes two arguments: the name of the console command, and an options argument. Different options are available for the different console commands.
+### Take Advantage of Lyft Rewards
 
-``` js
-hexo.call('generate', {}).then(function(){
-  // ...
-});
-```
+Lyft offers many perks to its drivers. You can save at the gas pump at some Shell stations and even rent a car with Express Drive.
 
-## Exit
 
-You should call the `exit` method upon successful or unsuccessful completion of a console command. This allows Hexo to exit gracefully and finish up important things such as saving the database.
-
-``` js
-hexo.call('generate').then(function(){
-  return hexo.exit();
-}).catch(function(err){
-  return hexo.exit(err);
-});
-```
+[Apply to drive with Lyft and make up to $35 an hour](https://www.lyft.com/drivers).
