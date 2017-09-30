@@ -27,6 +27,6 @@ docs:
     contributing: contributing.html
 
 lyft:
-  core:
+  requirements:
     overview: index.html
-    locals: locals.html
+    pay: pay.html
