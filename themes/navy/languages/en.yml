@@ -29,33 +29,18 @@ sidebar:
     overview: Overview
     pay: Pay
   uber:
-    getting_started: Getting Started
-    box: Box
-  docs:
-    getting_started: Getting Started
+    requirements: Requirements
     overview: Overview
-    setup: Setup
-    configuration: Configuration
-    commands: Commands
-    migration: Migration
-    basic_usage: Basic Usage
-    writing: Writing
-    front_matter: Front-matter
-    tag_plugins: Tag Plugins
-    asset_folders: Asset Folders
-    data_files: Data Files
-    server: Server
-    generating: Generating
-    deployment: Deployment
-    customization: Customization
-    permalinks: Permalinks
-    themes: Themes
-    structure: Structure
-    templates: Templates
-    variables: Variables
-    helpers: Helpers
-    internationalization: Internationalization (i18n)
-    plugins: Plugins
-    miscellaneous: Miscellaneous
-    troubleshooting: Troubleshooting
-    contributing: Contributing
+    pay: Pay
+  postmates:
+    requirements: Requirements
+    overview: Overview
+    pay: Pay
+  instacart:
+    requirements: Requirements
+    overview: Overview
+    pay: Pay
+  doordash:
+    requirements: Requirements
+    overview: Overview
+    pay: Pay
