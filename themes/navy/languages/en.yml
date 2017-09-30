@@ -6,6 +6,8 @@ menu:
   themes: Themes
   search: Search
   home: Home
+  lyft: lyft
+  Uber: uber
 
 index:
   get_started: Get started
