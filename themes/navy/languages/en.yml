@@ -8,6 +8,9 @@ menu:
   home: Home
   lyft: Lyft
   uber: Uber
+  postmates: Postmates
+  doordash: Doordash
+  instacart: Instacart
 
 index:
   get_started: Get started
