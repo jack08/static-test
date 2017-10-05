@@ -5,12 +5,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <!-- Canonical links -->
   <link rel="canonical" href="{{ url }}">
-  <!-- Alternative links -->
-  {% if page.layout == 'page' or page.layout == 'index' %}
-    {% for lang in site.data.languages %}
-      <link rel="alternative" hreflang="{{ loop.key }}" href="{{ canonical_url(loop.key) }}">
-    {% endfor %}
-  {% endif %}
   <!-- Icon -->
   <link rel="apple-touch-icon" sizes="57x57" href="{{ url_for('icon/apple-touch-icon-57x57.png') }}">
   <link rel="apple-touch-icon" sizes="114x114" href="{{ url_for('icon/apple-touch-icon-114x114.png') }}">
@@ -33,7 +27,6 @@
   <!-- endbuild -->
   <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700" rel="stylesheet" type="text/css">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/docsearch.js/1/docsearch.min.css">
   <!-- RSS -->
   {{ feed_tag('atom.xml') }}
   <!-- Open Graph -->

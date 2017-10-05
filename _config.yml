@@ -7,7 +7,7 @@ timezone: UTC
 
 url: https://www.uberlyfter.com
 root: /
-permalink: news/:title/
+permalink: blog/:title/
 archive_dir: blog
 code_dir: downloads/code
 new_post_name: :title.md # File name of new posts
