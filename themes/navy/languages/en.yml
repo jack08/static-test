@@ -4,13 +4,9 @@ menu:
   news: News
   plugins: Plugins
   themes: Themes
-  search: Search
   home: Home
   lyft: Lyft
   uber: Uber
-  postmates: Postmates
-  doordash: Doordash
-  instacart: Instacart
 
 index:
   get_started: Get started
@@ -29,18 +25,6 @@ sidebar:
     overview: Overview
     pay: Pay
   uber:
-    requirements: Requirements
-    overview: Overview
-    pay: Pay
-  postmates:
-    requirements: Requirements
-    overview: Overview
-    pay: Pay
-  instacart:
-    requirements: Requirements
-    overview: Overview
-    pay: Pay
-  doordash:
     requirements: Requirements
     overview: Overview
     pay: Pay

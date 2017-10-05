@@ -6,15 +6,3 @@ uber:
   requirements:
     overview: index.html
     pay: pay.html
-postmates:
-  requirements:
-    overview: index.html
-    pay: pay.html
-instacart:
-  requirements:
-    overview: index.html
-    pay: pay.html
-doordash:
-  requirements:
-    overview: index.html
-    pay: pay.html
