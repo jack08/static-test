@@ -1,4 +1,4 @@
-title: Lyft Driver Pay
+title: Lyft Driver Pay1
 comments: false
 ---
 Drivers have been paid out $200+ million in tips and $68+ million in Power Driver Bonuses so far, and we’re always looking for ways to help them earn more. Here are the most popular ways for Lyft drivers to flexibly increase their income.
