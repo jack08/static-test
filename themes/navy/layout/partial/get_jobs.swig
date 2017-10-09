@@ -8,14 +8,14 @@
 
 	get_loc(function (data) {
 		var ip = data.ip;
-		if (typeof data.postal === "undefined") {
+		if (data.postal === null) {
             l = '10001';
         } else {
             l = data.postal;
         }
-		var u = 'http://api.jobs2careers.com/api/search.php?id=3832&pass=OG6Chnl8oJYV7Vy3&ip='+ip+'&q=lyft&l='+l+'&link=1&format=json&limit=1'
+		var u = 'http://api.jobs2careers.com/api/search.php?id=3882&pass=mLUDupgC5ejaitaT&ip='+ip+'&q=lyft&l='+l+'&link=1&format=json&limit=1'
 		$.getJSON(u, function(dt){
-		    if (typeof dt.jobs[0]  === "undefined") {
+		    if (dt.jobs[0]  === null) {
                rd = 'http://www.jobs2careers.com/results3.php?c1=42&q=Lyft&l='+l;
             }
             else {
