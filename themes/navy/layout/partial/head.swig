@@ -3,6 +3,8 @@
   <title>{% if page.title %}{{ page.title }} | {% endif %}{{ config.title }}</title>
   <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="author" content="UberLyfter" />
+  <link rel="publisher" href="" />
   <!-- Canonical links -->
   {{ autoCanonical(config, page) }}
   <!-- Icon -->
@@ -36,4 +38,27 @@
   }) }}
   <!-- Google Analytics -->
   {{ partial('google_analytics') }}
+  <!-- Structured Data -->
+  <script type="application/ld+json">
+  {
+  "@context": "http://schema.org",
+  "@type": "Organization",
+  "name": "UberLyfter",
+  "legalName" : "UberLyfter",
+  "url": "https://www.uberlyfter.com/",
+  "logo": "",
+  "foundingDate": "2017",
+  "contactPoint": {
+  "@type": "ContactPoint",
+  "contactType": "customer support",
+  "email": "info@uberlyfter.com"
+  },
+  "sameAs": [
+  "https://twitter.com/",
+  "https://www.facebook.com/",
+  "https://plus.google.com/",
+  "https://www.youtube.com/",
+  "https://www.linkedin.com/"
+  ]}
+  </script>
 </head>
