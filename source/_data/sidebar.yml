@@ -2,9 +2,11 @@ lyft:
   requirements:
     overview: index.html
     driver_requirements: lyft-driver-requirements.html
+    vehicle_requirements: lyft-vehicle-requirements.html
     pay: lyft-driver-pay.html
 uber:
   requirements:
     overview: index.html
     driver_requirements: uber-driver-requirements.html
+    vehicle_requirements: uber-vehicle-requirements.html
     pay: uber-driver-pay.html

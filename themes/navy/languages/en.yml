@@ -25,9 +25,11 @@ sidebar:
     requirements: Requirements
     overview: Overview
     driver_requirements: Driver Requirements
+    vehicle_requirements: Vehicle Requirements
     pay: Driver Pay
   uber:
     requirements: Requirements
     overview: Overview
     driver_requirements: Driver Requirements
+    vehicle_requirements: Vehicle Requirements
     pay: Driver Pay
