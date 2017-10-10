@@ -22,10 +22,12 @@ page:
 
 sidebar:
   lyft:
-    requirements: Driver Requirements
+    requirements: Requirements
     overview: Overview
+    driver_requirements: Driver Requirements
     pay: Driver Pay
   uber:
-    requirements: Driver Requirements
+    requirements: Requirements
     overview: Overview
+    driver_requirements: Driver Requirements
     pay: Driver Pay
