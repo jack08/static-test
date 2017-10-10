@@ -1,8 +1,8 @@
 lyft:
-  requirements:
-    overview: index.html
-    pay: pay.html
+  requirements: lyft-driver-requirements.html
+  overview: index.html
+  pay: lyft-driver-pay.html
 uber:
-  requirements:
-    overview: index.html
-    pay: pay.html
+  requirements: uber-driver-requirements.html
+  overview: index.html
+  pay: uber-driver-pay.html
