@@ -38,6 +38,7 @@
   }) }}
   <!-- Google Analytics -->
   {{ partial('google_analytics') }}
+  {{ partial('google_tag_manager') }}
   <!-- Structured Data -->
   <script type="application/ld+json">
   {

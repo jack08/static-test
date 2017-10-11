@@ -3,6 +3,7 @@
     <div id="content-inner">
       <article class="article-container" itemscope itemtype="http://schema.org/Article">
         <div class="article-inner">
+          {{ partial('partial/page_ads') }}
           <div class="article">
             <div class="inner">
               <header class="article-header">
