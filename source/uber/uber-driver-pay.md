@@ -1,4 +1,4 @@
-title: Uber Driver Pay
+title: Guide To Uber Driver Pay
 comments: false
 ---
 Drivers have been paid out $200+ million in tips and $68+ million in Power Driver Bonuses so far, and we’re always looking for ways to help them earn more. Here are the most popular ways for Uber drivers to flexibly increase their income.
@@ -33,4 +33,3 @@ We’ve made it easy to refer from the Uber app. If a friend applies using their
 
 Drivers are paid for the time and distance of every ride. See how that adds up by using our driver earnings calculator.
 
-[Apply to drive with Uber and make up to $35 an hour](https://www.Uber.com/drivers).

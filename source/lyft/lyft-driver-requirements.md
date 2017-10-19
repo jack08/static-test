@@ -1,4 +1,4 @@
-title: Lyft Driver Requirements
+title: Guide To Lyft Driver Requirements
 comments: false
 ---
 What does it take to become an Lyft driver?  Well, first off, you'll want to be aware that the requirements will differ from state to state.  They might even be different between cities within the same state!  Don't worry, we'll cover most of the important eligibility criteria you need to know.

@@ -1,4 +1,4 @@
-title: 6 Reasons to Drive With Lyft
+title: Guide To Becoming a Driver For Lyft
 comments: false
 ---
 Finding the perfect job these days can be, well, difficult — which might even be an understatement for some on the hunt. But if flexibility and fast cash are requirements on your list, then we might have your answer: Drive with Lyft. Here’s why:
@@ -30,6 +30,3 @@ You no longer have to count down the days until payday when you drive with Lyft.
 ### Take Advantage of Lyft Rewards
 
 Lyft offers many perks to its drivers. You can save at the gas pump at some Shell stations and even rent a car with Express Drive.
-
-
-[Apply to drive with Lyft and make up to $35 an hour](https://www.lyft.com/drivers).

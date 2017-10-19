@@ -1,6 +1,6 @@
 <header id="banner" class="wrapper">
   <div class="inner">
-    <h2 id="banner-title">{{ page.subtitle }}</h2>
+    <h1 id="banner-title">{{ page.subtitle }}</h1>
     <div id="banner-start"></div>
   </div>
 </header>
