@@ -1,33 +1,48 @@
 title: Guide To Becoming a Driver For Uber
 comments: false
 ---
-Finding the perfect job these days can be, well, difficult — which might even be an understatement for some on the hunt. But if flexibility and fast cash are requirements on your list, then we might have your answer: Drive with Lyft. Here’s why:
+So you want to become an Uber driver? Cool! It's a freeing life style. Drive on _your_ terms, with the freedom to earn a good living. At first it sounds great getting into the ride-sharing game....and you start staring at lists of requirements. Ugh!
 
-### Drive When You Want
+It's tough making sense of what to do to get started. Don't worry. We'll chart it out for you and help make sense of things.
 
-To drive or not to drive? It’s really up to you. If you have a slow month at work, make up for it by driving with Lyft. Or if you’re planning a trip next month and want some extra money, just drive around your work schedule. There are no set hours to work — just open the Lyft app and accept rides when you’re ready. Lyft’s flexibility makes earning cash easy.
+## Becoming An Uber Driver
+You can break the process to become an Uber driver into these four steps.
 
-### Keep All of Your Tips
+* Meet driver conditions.
+* Meet vehicle conditions.
+* Submit your application.
+* Pass the background check.
 
-Simply put: Lyft drivers get 100 percent of their tips. Plus, tipping is done through the app so there’s no need to ask for tips from passengers.
+## Driver Requirements For Becoming An Uber Driver
+Most job seekers are eligible to become an Uber driver. If you're driving record and background are clean, you should be okay.
 
-### Receive Feedback
+* You must have a valid U.S. drivers license.
+* Your car must have 4 doors.
+* Cars from the allowed list.
+* Pass a background check.
+* Have a clean driving record.
 
-Once a ride is done, passengers and drivers can rate each other, so you can learn from each ride you give. Now, that’s effective!
+Find out the details on [Uber driver requirements](/uber/uber-driver-requirements).
 
-### Discover New Places and Friends
+## Vehicle Requirements For Becoming An Uber Driver
+Most vehicles will pass Uber's terms. You should be able to become a driver if you meet the driver and car terms. Choosing which class your car is in might seem tricky. For most cars, this won't be too tough.
 
-Want to meet new people and see new places? If you drive with Lyft, you can make friends and visit parts of the city you may not have seen otherwise. With Lyft, every ride can be an adventure.
+* 2000 or newer model.
+* 4+ doors.
+* 4+ passengers.
+* Must have license plates from the state you're driving in.
+* Can't have a salvage title.
+* No taxis.
 
-### Boost Your Earnings
+Read the detailed list of [Uber vehicle requirements](/uber/uber-vehicle-requirements). They seem a bit lengthy, but most are pretty simple.
 
-Get rewarded for going the extra mile. The Power Driver Bonus can increase your earnings by 20 percent each week for hitting certain milestones. Prime Time adds to your pay if you drive when there’s a ton of passengers.
+## How Do Uber Drivers Get Paid?
+The way Uber pays drivers is pretty nice. It's a per week period (Monday to Monday). This alone is a good reason for becoming an Uber driver. Even with a full time job, it sure helps having an added paycheck per week. If you'd prefer other ways, Uber does have other options. Uber has two main payment methods for drivers.
 
-### Get Paid Faster
+* Direct deposit.
+* Instant Pay (debit card).
 
-You no longer have to count down the days until payday when you drive with Lyft. Drivers who reach at least $50 in earnings can get paid quickly with Express Pay — receiving their cash in as little as a few hours.
+Direct deposit is the normal way drivers get paid. You can choose Instant Pay if you'd like. It will let you cash out 5 times per day! That's pretty handy.
 
-### Take Advantage of Lyft Rewards
 
-Lyft offers many perks to its drivers. You can save at the gas pump at some Shell stations and even rent a car with Express Drive.
-
+Read the detailed list of [Uber driver pay](/uber/uber-driver-pay) terms. Find out what you can earn as you become an Uber driver!
