@@ -1,60 +1,81 @@
 title: Guide To Uber Driver Requirements
 comments: false
 ---
-What does it take to become an Uber driver? First off, you will want to be aware that requirements differ in each state. They might even differ between cities within the same state! Do not worry, we will cover most of the important eligibility criteria you need to know.
+What does it take to become an Uber driver? First off, be aware that requirements differ in each state. They might even differ between cities within the same state! Don't let that scare you away. Most folks meet the terms to drive for Uber.
+
+Let's cover the rules to pass the Uber driver requirements.
 
 ## Uber Driver Requirements
-Almost anyone can drive for Uber, though there are a few requirements you need to meet at a minimum:
+These are a few terms you need to meet at a minimum:
 
-* You must have a valid U.S. drivers license
-* Your vehicle must be a 4-door
-* Your vehicle must be on the eligibility list
-* Pass a background check
-* Have a clean driving record
+* You must have a valid U.S. drivers license.
+* Your vehicle must be a 4-door.
+* Your vehicle must be on the allowed list.
+* Pass a background check.
+* Have a clean driving record.
 
 ### Uber Driver Age Requirements
-* You must be 21+ years old
+* You must be 21+ years old.
 * Driving experience requirements:
-    - **Under 23 years old:** Must have 3 years driving experience
-    - **23 or older:** Minimum of 1 year driving experience
+    - **Under 23 years old:** Must have 3 years driving experience.
+    - **23 or older:** At least 1 year driving experience.
 
-### Required Documents For Uber Driver Applicants
-The required documents you will also need are pretty simple, for most cities and states:
+### Required Records For Uber Driver Applicants
+The required records you need are pretty simple for most cities and states:
 
-* Valid U.S. drivers license
-* Proof of vehicle registration
-* Proof of vehicle insurance
-* Pass online screening
-    - Review of driving record and criminal history
+* Valid U.S. drivers license.
+* Proof of auto registration.
+* Proof of auto insurance.
+* Pass online screening.
+    - Review of driving record and criminal background.
 
 ### State & Local Requirements For Uber Drivers
-These are only _Uber_ requirements. There may be other **city**, **county**, or **state** ride-sharing requirements in your area. In some cases, you may need to apply for certain things like:
+These are _Uber_ requirements. **Cities**, **Counties**, or **States** may have their own ride-sharing rules. In some cases, you may need to obtain certain things like:
 
-* Business license or permit
-* Local association or union membership
-* Pay local or state fees or taxes
-* Insurance requirements may be greater-than required by Uber
-* In rare circumstances, a locality may require a commercial drivers license
+* Business license or permit.
+* Local union member.
+* Pay local or state fees or taxes.
+* Insurance requirements may be greater-than required by Uber.
+* In rare cases, a city may require a CDL.
 
-Besides driver requirements, Uber has vehicle requirements to meet as well. In certain localities there may be additional requirements as well.
+Besides driver requirements, Uber has vehicle terms to meet as. Certain cities have further rules on what cars you can use.
 
 ### Uber Driver Background Check Requirements
-Not sure if you are eligible? Here are a few details about the types of offenses the background check will look for (past 7 years):
+Shaky on getting denied? These are a few details on offense types the background check will look for (past 7 years):
 
-* DUI
-* Drug-related offenses
-* Driving without insurance or license
-* Fatal accidents
-* History of wreckless driving
-* Any other criminal history
+* Driving Under Influence.
+* Drug-type offense.
+* Driving without insurance or license.
+* Fatal crashes.
+* Record of reckless driving.
+* Any other criminal record.
 
-The Uber background check includes searching local, state, and national levels. The actual list of items you will need for the background check is pretty simple:
+The Uber background check includes searching local, state, and country levels. The list of needed items for the background check is pretty simple:
 
 #### Items Needed For Your Background Check
 
-* Full name
-* Date of birth
-* Social security number
-* Drivers license number
+* Full name.
+* Date of birth.
+* Social security number.
+* Drivers license number.
 
-Not all offenses will disqualify you. However, any of the offense types above may make you ineligible.
+If you're thinking any offense will exclude you, don't worry. Some types of offense are a non-issue.  Though, any of the offense types above may cause you to get denied.
+
+### Basic Uber Vehicle Requirements
+Other than driver requirements, Uber requires vehicles that meet certain things.
+
+* 2000 year model or newer for most cities.
+* Must seat 4 riders minimum (doesn't include you).
+* Must have license plates from the state you're driving in.
+* Can't have a salvage title.
+* Can't be a taxi vehicle.
+
+For other details, check out our list of Uber's vehicle requirements.
+
+#### Uber Vehicle Classes
+Uber has a few vehicle classes, each with their own requirements.
+
+* UberXL.
+* UberSelect (UberPlus in some markets).
+* UberSUV.
+* UberBlack (UberLux, if you prefer to roll in style!).
