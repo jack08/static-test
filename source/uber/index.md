@@ -37,12 +37,12 @@ Most vehicles will pass Uber's terms. You should be able to become a driver if y
 Read the detailed list of [Uber vehicle requirements](/uber/uber-vehicle-requirements). They seem a bit lengthy, but most are pretty simple.
 
 ## How Do Uber Drivers Get Paid?
-The way Uber pays drivers is pretty nice. It's a per week period (Monday to Monday). This alone is a good reason for becoming an Uber driver. Even with a full time job, it sure helps having an added paycheck per week. If you'd prefer other ways, Uber does have other options. Uber has two main payment methods for drivers.
+Uber pays drivers each week. If you want to become an Uber driver, this alone is a great reason. Uber does have a second pay options.
 
 * Direct deposit.
-* Instant Pay (debit card).
+* Instant Pay.
 
-Direct deposit is the normal way drivers get paid. You can choose Instant Pay if you'd like. It will let you cash out 5 times per day! That's pretty handy.
+Direct deposit is the normal way drivers get paid. You can choose Instant Pay if you like. It will let you cash out 5 times per day! That's pretty handy.
 
 
 Read the detailed list of [Uber driver pay](/uber/uber-driver-pay) terms. Find out what you can earn as you become an Uber driver!
