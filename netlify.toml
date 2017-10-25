@@ -3,12 +3,12 @@
   publish = "/public"
 
 redirects = [
-  {from = "/uber/index.html", to = "/uber/", status = 200},
-  {from = "/uber/driver-requirements/index.html", to = "/uber/driver-requirements/", status = 200},
-  {from = "/uber/vehicle-requirements/index.html", to = "/uber/vehicle-requirements/", status = 200},
-  {from = "/uber/driver-pay/index.html", to = "/uber/driver-pay/", status = 200},
-  {from = "/lyft/index.html", to = "/lyft/", status = 200},
-  {from = "/lyft/driver-requirements/index.html", to = "/lyft/driver-requirements/", status = 200},
-  {from = "/lyft/vehicle-requirements/index.html", to = "/lyft/vehicle-requirements/", status = 200},
-  {from = "/lyft/driver-pay/index.html", to = "/lyft/driver-pay/", status = 200},
-  {from = "/blog/index.html", to = "/blog/", status = 200}]
+  {from = "/uber/index.html", to = "/uber/", status = 200, force = true},
+  {from = "/uber/driver-requirements/index.html", to = "/uber/driver-requirements/", status = 200, force = true},
+  {from = "/uber/vehicle-requirements/index.html", to = "/uber/vehicle-requirements/", status = 200, force = true},
+  {from = "/uber/driver-pay/index.html", to = "/uber/driver-pay/", status = 200, force = true},
+  {from = "/lyft/index.html", to = "/lyft/", status = 200, force = true},
+  {from = "/lyft/driver-requirements/index.html", to = "/lyft/driver-requirements/", status = 200, force = true},
+  {from = "/lyft/vehicle-requirements/index.html", to = "/lyft/vehicle-requirements/", status = 200, force = true},
+  {from = "/lyft/driver-pay/index.html", to = "/lyft/driver-pay/", status = 200, force = true},
+  {from = "/blog/index.html", to = "/blog/", status = 200, force = true}]
