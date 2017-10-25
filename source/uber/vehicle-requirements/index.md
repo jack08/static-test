@@ -31,6 +31,7 @@ These types of vehicles aren't allowed in most Uber classes.
 This is a list of the unique requirements for each Uber vehicle class.
 
 ### UberX
+![gray UberX car example](/img/uberx-car.png)
 Most normal cars will fit in the UberX class. Some cars may fit into other classes, like UberXL or UberSelect.
 
 * 4 door car.
@@ -38,6 +39,7 @@ Most normal cars will fit in the UberX class. Some cars may fit into other class
 * No vans.
 
 ### UberXL
+![white UberXL suv example](/img/uberxl-suv.png)
 Put your SUV or van to work! UberXL is for using all of that added space. Your SUV or van might fit this class. UberBlack might be your class if yours is high end and black inside and out.
 
 * SUV or minivan.
@@ -46,6 +48,7 @@ Put your SUV or van to work! UberXL is for using all of that added space. Your S
 * No full size vans.
 
 ### UberSelect (UberPlus)
+![white UberSelect car example](/img/uberselect-sedan.png)
 Most mid-range sedans will fit the UberSelect class. The UberSelect class tends to pull in higher fares, which is a nice perk!
 
 * 2008 or newer model.
@@ -57,6 +60,7 @@ Most mid-range sedans will fit the UberSelect class. The UberSelect class tends 
 * No vans.
 
 ### UberSUV
+![UberSUV car example](/img/ubersuv-luxury.png)
 High end, blacked out SUVs that seat 6+ riders might qualify for UberSUV. The vehicle requirements are tough, like UberBlack.
 
 * 4+ door.
@@ -68,6 +72,7 @@ High end, blacked out SUVs that seat 6+ riders might qualify for UberSUV. The ve
 * No vans.
 
 ### UberBlack
+![UberBlack car example](/img/uberblack-sedan.png)
 Have a blacked-out, high-end luxury sedan or SUV? This is the class for you. Riders want to ride on _their_ terms. Many of them want to enjoy their rides in style too! Your must meet these vehicle requirements to get approved.
 
 * 4+ door.
@@ -120,6 +125,7 @@ These requirements are pretty simple. They are similar for most states, but you 
 * Insurance must be in the state you're driving
 
 ## Driving Costs To Be Aware Of As An Uber Driver
+![vehicle maintenance example](/img/vehicle-maintenance-expenses.png)
 Since you're going to be a driver for a living, you need to keep your car maintained. It can create a lot of added wear and tear on your car!
 
 * Gas and maintenance.
