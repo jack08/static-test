@@ -1,14 +1,3 @@
 [build]
   command = "hexo generate"
   publish = "/public"
-
-redirects = [
-  {from = "/uber/index.html", to = "/uber/", status = 301},
-  {from = "/uber/uber-driver-requirements.html", to = "/uber/uber-driver-requirements", status = 301},
-  {from = "/uber/uber-vehicle-requirements.html", to = "/uber/uber-vehicle-requirements", status = 301},
-  {from = "/uber/uber-driver-pay.html", to = "/uber/uber-driver-pay", status = 301},
-  {from = "/lyft/index.html", to = "/lyft/", status = 301},
-  {from = "/lyft/lyft-driver-requirements.html", to = "/lyft/lyft-driver-requirements", status = 301},
-  {from = "/lyft/lyft-vehicle-requirements.html", to = "/lyft/lyft-vehicle-requirements", status = 301},
-  {from = "/lyft/lyft-driver-pay.html", to = "/lyft/lyft-driver-pay", status = 301},
-  {from = "/blog/index.html", to = "/blog/", status = 301}]
