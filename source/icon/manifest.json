@@ -1,5 +1,6 @@
 {
- "name": "App",
+ "name": "UberLyfter",
+ "short_name": "UberLyfter",
  "icons": [
   {
    "src": "\/android-icon-36x36.png",
