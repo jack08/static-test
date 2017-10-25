@@ -12,6 +12,3 @@ redirects = [
   {from = "/lyft/vehicle-requirements/index.html", to = "/lyft/vehicle-requirements/", status = 200, force = true},
   {from = "/lyft/driver-pay/index.html", to = "/lyft/driver-pay/", status = 200, force = true},
   {from = "/blog/index.html", to = "/blog/", status = 200, force = true}]
-
-skip_render:
-  - source/_redirects
