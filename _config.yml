@@ -32,3 +32,4 @@ skip_render:
 
 include:
   - source/_redirects
+  - _redirects
