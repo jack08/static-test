@@ -27,9 +27,5 @@ disqus_shortname:
 google_analytics:
 twitter:
 
-skip_render:
-  - source/_redirects
-
 include:
-  - source/_redirects
   - _redirects
