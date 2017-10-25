@@ -29,3 +29,6 @@ twitter:
 
 skip_render:
   - source/_redirects
+
+include:
+  - source/_redirects
