@@ -6,6 +6,7 @@ So you want to become an Uber driver? Cool! It's a freeing life style. Drive on 
 It's tough making sense of what to do to get started. Don't worry. We'll chart it out for you and help make sense of things.
 
 ## Becoming An Uber Driver
+![people becoming uber drivers](/img/become-an-uber-driver.png)
 You can break the process to become an Uber driver into these four steps.
 
 * Meet driver conditions.
@@ -14,6 +15,7 @@ You can break the process to become an Uber driver into these four steps.
 * Pass the background check.
 
 ## Driver Requirements For Becoming An Uber Driver
+![example of required Uber driver documents](/img/example-drivers-license.png)
 Most job seekers are eligible to become an Uber driver. If you're driving record and background are clean, you should be okay.
 
 * You must have a valid U.S. drivers license.
@@ -25,6 +27,7 @@ Most job seekers are eligible to become an Uber driver. If you're driving record
 Find out the details on [Uber driver requirements](/uber/uber-driver-requirements).
 
 ## Vehicle Requirements For Becoming An Uber Driver
+![uber driver driving](/img/uber-driver-driving.png)
 Most vehicles will pass Uber's terms. You should be able to become a driver if you meet the driver and car terms. Choosing which class your car is in might seem tricky. For most cars, this won't be too tough.
 
 * 2000 or newer model.
@@ -37,6 +40,7 @@ Most vehicles will pass Uber's terms. You should be able to become a driver if y
 Read the detailed list of [Uber vehicle requirements](/uber/uber-vehicle-requirements). They seem a bit lengthy, but most are pretty simple.
 
 ## How Do Uber Drivers Get Paid?
+![uber driver pay and expenses](/img/uber-driver-pay-expenses.png)
 Uber pays drivers each week. If you want to become an Uber driver, this alone is a great reason. Uber does have a second pay options.
 
 * Direct deposit.

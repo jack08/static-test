@@ -22,7 +22,7 @@ These are a few terms you need to meet at a minimum:
 
 ### Required Records For Uber Driver Applicants
 The required records you need are pretty simple for most cities and states:
-
+![drivers license example](/img/example-drivers-license.png)
 * Valid U.S. drivers license.
 * Proof of auto registration.
 * Proof of auto insurance.
@@ -62,6 +62,7 @@ The Uber background check includes searching local, state, and country levels. T
 If you're thinking any offense will exclude you, don't worry. Some types of offense are a non-issue.  Though, any of the offense types above may cause you to get denied.
 
 ### Basic Uber Vehicle Requirements
+![Uber driver opening door for rider](/img/uber-driver-opening-door.png)
 Other than driver requirements, Uber requires vehicles that meet certain things.
 
 * 2000 year model or newer for most cities.

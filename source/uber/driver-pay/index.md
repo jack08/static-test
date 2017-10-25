@@ -20,6 +20,7 @@ These are a few questions most drivers ask:
 * Does Uber Cover Any Expenses?
 
 ### How much do Uber rides cost?
+![calculating uber driver pay after expenses](/img/uber-driver-pay-expenses.png)
 To explain driving costs, let's take a look at how Uber charges _riders_. They get charged based on 2 simple factors:
 
 `Time + Distance`

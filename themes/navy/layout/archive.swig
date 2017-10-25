@@ -1,5 +1,6 @@
 {% set page.title = 'News' %}
 <div id="content-wrap">
+  <div class="blog-hero-banner"></div>
   <div class="wrapper">
     <div class="inner">
       {% for post in page.posts %}
