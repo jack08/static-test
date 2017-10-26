@@ -71,7 +71,7 @@ Other than driver requirements, Uber requires vehicles that meet certain things.
 * Can't have a salvage title.
 * Can't be a taxi vehicle.
 
-For other details, check out our list of [Uber's vehicle requirements](/uber/driver-requirements/).
+For other details, check out our list of [Uber's vehicle requirements](/uber/vehicle-requirements/).
 
 #### Uber Vehicle Classes
 Uber has a few vehicle classes, each with their own requirements.
