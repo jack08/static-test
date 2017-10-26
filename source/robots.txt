@@ -1,7 +1,7 @@
 User-agent: Mediapartners-Google
 Allow: /
 
-User-agent: SEMrushBot-Desktop
+User-agent: SemrushBot
 Allow: /
 
 User-agent: *
