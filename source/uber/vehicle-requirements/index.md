@@ -142,4 +142,4 @@ Beyond Uber vehicle requirements, you need to meet these terms as a driver:
 * Clean driving record.
 * 21 years or older.
 
-[Uber has other driver requirements](/uber/uber-driver-requirements) to meet, beyond this list.
+[Uber has other driver requirements](/uber/driver-requirements/) to meet, beyond this list.

@@ -70,7 +70,7 @@ Costs don't seem bad at first, but they grow as you drive for a living.
 * **Car care**.
     - Oil changes, car washes, tune-ups, brakes...it gets expensive. Budget a minimum of $1,000 per year to maintain your car.
 
-Read the detailed list of [Uber's car requirements](/uber/uber-vehicle-requirements). Find out what expenses to plan for, and what they might cost!
+Read the detailed list of [Uber's car requirements](/uber/vehicle-requirements/). Find out what expenses to plan for, and what they might cost!
 
 ## How Do Uber Drivers Get Paid?
 The way Uber pays drivers is pretty nice. It's a per week period (Monday to Monday). This alone is a good reason for becoming an Uber driver. Even with a full time job, it sure helps having an added paycheck per week. If you'd prefer other ways, Uber does have other options. Uber has two main payment methods for drivers.
