@@ -30,3 +30,15 @@ You no longer have to count down the days until payday when you drive with Lyft.
 ### Take Advantage of Lyft Rewards
 
 Lyft offers many perks to its drivers. You can save at the gas pump at some Shell stations and even rent a car with Express Drive.
+
+
+Want to become a Lyft driver, but unsure on driver or car requirements? Lyft is wonderful in that they simplify the driver application process.
+
+    Pass vehicle inspection
+    In-state insurance with name on policy
+    In-state US drivers license
+    1+ year US driving experience
+    In-state plates, current registration (commercial plates work)
+    Pass background and driving record check
+    Current smartphone: iPhone 4s+ (iOS 7+), Android (4.0+)
+    Comply with any local regulations in your area

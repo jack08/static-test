@@ -1,36 +1,75 @@
 title: Guide To Lyft Driver Requirements
 comments: false
 ---
-What does it take to become an Lyft driver?  Well, first off, you'll want to be aware that the requirements will differ from state to state.  They might even be different between cities within the same state!  Don't worry, we'll cover most of the important eligibility criteria you need to know.
+Want to become a Lyft driver?  First off, take note that requirements differ from state to state. Don't worry. Let's look at the main terms you need to know.
 
-### Minimum Requirements to Drive For Lyft
-Almost anyone can drive for Lyft, though there are a few requirements you need to meet at a minimum:
+## Basic Lyft Driver Requirements
+Most drivers meet the terms to drive for Lyft. They do have a few conditions you have to meet at the least:
 
-* You must be 21+ years old
-* You must have a valid U.S. driver's license
-* Your vehicle must be a 4-door
-* Your vehicle must be on the eligibility list (more on that later)
-* Driving experience requirements:
-    - **Under 23 years old:** Must have 3 years driving experience
-    - **23 or older:** Minimum of 1 year driving experience
+* Meet age and experience terms.
+* Have required records (license, insurance).
+* Meet car requirements (age, on approved list).
+* Pass background check.
 
+### Lyft Driver Age Requirements
+Lyft requires you are at least 21 years old with 1+ year of US driving. They don't make any breaks to this rule. A great thing with Lyft is, the low age and experience required. Some ride sharing companies require greater experience. This is nice if you are in college and looking for some quick side cash.
 
-### Required Documents For Lyft Applicants
-Thankfully, in most cities and states, the documents required by Lyft, that you'll need to provide with your application, are pretty simple:
+* Must be 21+.
+* 1+ year driving (within the US).
 
-* Valid U.S. driver's license
-* Valid proof of vehicle registration
-* Valid proof of vehicle insurance
-* Successfully complete online screening
-    - Your driving record and criminal history will be reviewed
+#### Lyft Driver Experience Requirements
+You will need at least 1 year driving in the US. Even if you have driven for a long time in other countries, Lyft won't count that.
 
-### State & Local Requirements to Be Aware Of
-One important thing to be aware of!  These are just _Lyft's_ requirements.  There may be other **city**, **county**, or **state requirements** in your area, to become a ride-sharing driver.  In some cases, you may need to apply for or obtain certain things like this:
+### Lyft Driver Required Records
+![drivers license](/img/example-drivers-license.png)
+The cool thing is, the records required for Lyft drivers, are pretty simple. You will have to provide these at the time you submit.
 
-* Business license or permit
-* Local association or union membership
-* Pay local or state fees or taxes
-* Insurance requirements may be greater-than required by Lyft
-* In rare circumstances, a locality may require a commercial driver's license
+* Valid U.S. driver's license.
+* Proof of car registry.
+* Proof of car insurance.
+* Complete driving record and criminal history screening.
 
-In addition to requirements to qualify as a driver, it's important to note that your car must meet Lyft's requirements. In certain localities there may be additional requirements as well.
+#### Driver Requirements For License, Registry
+New to the state? Most states require a new drivers license for folks that have moved. Do yourself a favor and don't put off the trip to the DMV! We all hate those trips. You don't want to "wreck" your chances because of an expired license. Get this done first, so you can check it off the list.
+
+Even searching online for your local DMV can get awful. You might check DMV.org first. They are handy for getting the basics on these driver requirements. Tough it out and get it done quick! The last thing you want is to get pulled over with a rider in the back seat!
+
+### State & Local Lyft Driver Requirements
+Don't forget to meet local laws!  Lyft is great at sending you city-unique details when you apply. This helps a lot with getting over the fence to be legal in your area. Some cities have their own demands for ride sharing drivers. An list of a few of these is:
+
+* Business license.
+* Local union member.
+* Local fees or taxes.
+* CDL.
+* Certain tags.
+
+### Lyft Driver Background Check Requirements
+Lyft driver requirements are pretty laid back compared to some. You don't need to have a perfect record to get past driver requirements. The real trick is to figure out which things in your history might create problems. Lyft is pretty clear on their terms, which does help.
+
+* 21+ years old.
+* 1+ year driving.
+* No major charges past 3yrs (license taken, reckless driving).
+* Max of 3 moving offense in past 3yrs (wreck, red light, stop sign).
+* No serious offense past 7yrs (auto felony, hit and run).
+* No DUI past 7 years.
+
+Lyft will ask your consent for a third party background check. Lyft background checks include a 7 year history. These are some ideas of what the check looks for.
+
+* No violent crime or sex offense.
+* No theft or property damage.
+* Not a felon.
+* No drug offense.
+
+Life ban on these offense types:
+
+* Sex offense.
+
+Lyft explains reasons they decline driver job apps. If yours gets denied, they will email you with reasons for turning you down. They do provide details on how to appeal the outcome.
+
+### Lyft Vehicle Requirements
+![Lyft guy driving car](/img/guy-driving-car.png)
+Lyft requires four door cars, 2005 or newer. They do require car insurance that meets state minimum. Some providers require ride-share insurance. The card needs to have your name on it.
+
+Your car must pass an inspection and be in good shape. They will look for major types of damage or wear. Things like bad brakes, cracked glass, or other serious problems.
+
+Find out other details on [Lyft's vehicle requirements](/lyft/vehicle-requirements/).

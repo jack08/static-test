@@ -32,3 +32,38 @@ We’ve made it easy to refer from the Lyft app. If a friend applies using their
 ### How Much Do Lyft Drivers Make?
 
 Drivers are paid for the time and distance of every ride. See how that adds up by using our driver earnings calculator.
+
+
+
+
+
+
+
+Lyft Driver Pay
+
+Drivers have been paid out $200+ million in tips and $68+ million in Power Driver Bonuses so far, and we’re always looking for ways to help them earn more. Here are the most popular ways for Lyft drivers to flexibly increase their income.
+
+
+Tips in the Lyft App
+
+Since day one, Lyft has made it easy for passengers to tip right from the app. To date, drivers have earned over $200 million in tips.
+
+
+Weekly Bonuses
+
+The more you drive, the more you earn. Lyft’s weekly Power Driver Bonus rewards drivers for hitting the road when passengers need them most.
+
+
+Instant, Flexible Pay
+
+Express Pay is a first-of-its-kind feature that allows drivers to cash out whenever they want, instantly.
+
+
+Referral Bonuses
+
+Drivers can earn extra money without even getting behind the wheel. If they invite a friend to drive with Lyft, we’ll say thanks with a cash bonus.
+
+
+How Much Do Lyft Drivers Make?
+
+Drivers are paid for the time and distance of every ride. See how that adds up by using our driver earnings calculator.
