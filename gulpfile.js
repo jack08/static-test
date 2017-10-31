@@ -120,3 +120,5 @@ gulp.task('templates', function(){
     .pipe(replace('/index.html', '/'))
     .pipe(gulp.dest('public/'));
 });
+
+gulp.task('default', ['templates']);
