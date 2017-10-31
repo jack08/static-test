@@ -13,6 +13,7 @@ var gulpResponsive = require('gulp-responsive');
 var gulpCheerio = require('gulp-cheerio');
 var del = require('del');
 var rename = require('rename');
+var replace = require('gulp-replace');
 
 var dirs = {
   public: 'public',
@@ -113,3 +114,9 @@ gulp.task('default', ['useref', 'screenshot']);
 function replaceBackSlash(str) {
   return str.replace(/\\/g, '/');
 }
+
+gulp.task('templates', function(){
+  gulp.src(['public/sitemap.xml'])
+    .pipe(replace('/index.html', '/'))
+    .pipe(gulp.dest('public'));
+});
