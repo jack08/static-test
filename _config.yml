@@ -32,4 +32,4 @@ include:
 
 sitemap:
   path: sitemap.xml
-  template: ./sitemap_template.xml
+  template: sitemap_template.xml
