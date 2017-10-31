@@ -116,7 +116,7 @@ function replaceBackSlash(str) {
 }
 
 gulp.task('templates', function(){
-  gulp.src(['sitemap.xml'])
+  return gulp.src(['sitemap.xml'])
     .pipe(replace('/index.html', '/'))
     .pipe(gulp.dest('public/'));
 });
