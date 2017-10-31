@@ -34,12 +34,12 @@ Here's what that looks like:
 ```
 (These numbers are an example)
 
-Your City = $0.20 per minute
-Fare = $0.75 per mile
-Rider Fee = $1.00
-Surge Price = 1.5
-Distance = 10 miles
-Time = 20 minutes
+Your City   $0.20 per minute
+Fare        $0.75 per mile
+Rider Fee   $1.00
+Surge       1.5
+Distance    10 miles
+Time        20 minutes
 ```
 
 **Normal Pricing**
