@@ -20,7 +20,7 @@
               {{ partial('partial/comment') }}
             </div>
           </div>
-          <aside id="article-toc" role="navigation">
+          <aside id="article-toc" role="navigation" aria-label="post navigation">
             <div id="article-toc-inner">
               <strong class="sidebar-title">{{ __('page.contents') }}</strong>
               {{ toc(page.content, {list_number: false}) }}
