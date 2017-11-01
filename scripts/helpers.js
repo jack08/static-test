@@ -111,8 +111,7 @@ hexo.extend.helper.register('page_anchor', function(str) {
     var id = $(this).attr('id');
 
     $(this)
-      .addClass('article-heading')
-      .append('<a class="article-anchor" href="#' + id + '" aria-hidden="true"></a>');
+      .addClass('article-heading');
   });
 
   return $.html();
