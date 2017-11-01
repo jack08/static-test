@@ -59,10 +59,11 @@
   },
   "sameAs": [
   "https://twitter.com/",
-  "https://www.facebook.com/",
-  "https://plus.google.com/",
-  "https://www.youtube.com/",
-  "https://www.linkedin.com/"
+  "https://www.facebook.com/UberLyfter-528322824180125/",
+  "https://plus.google.com/102777576696764296596",
+  "https://www.youtube.com/channel/UCoQkAc63HoNtSAq6hidSetA",
+  "https://www.linkedin.com/company/uberlyfter/",
+  "https://www.instagram.com/uberlyfter_/"
   ]}
   </script>
 </head>
