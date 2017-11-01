@@ -1,4 +1,4 @@
-<div id="content-wrap" role="main">
+<div id="content-wrap" role="main" tabindex="-1">
   <div id="content" class="wrapper">
     <div id="content-inner">
       <article class="article-container" itemscope itemtype="http://schema.org/Article">

@@ -2,6 +2,7 @@
 <html lang="{{ page.lang }}">
 {{ partial('partial/head') }}
 <body>
+<a class="skipnav" href="#content-wrap">Skip to main content</a>
 {{ partial('partial/google_tag_manager_body') }}
   <div id="container">
     {{ partial('partial/header') }}

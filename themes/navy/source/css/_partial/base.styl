@@ -59,12 +59,37 @@ body
   display: block
   margin: 0 auto
   width: 100%
-  height: 300px;
-  min-height: 200px;
-  background: url(/img/hero-driver-banner2.png);
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
+  height: 300px
+  min-height: 200px
+  background: url(/img/hero-driver-banner2.png)
+  -webkit-background-size: cover
+  -moz-background-size: cover
+  -o-background-size: cover
+  background-size: cover
+  background-repeat: no-repeat
+  background-position: center
+
+.skipnav
+  left:-999px
+  position:absolute
+  top:auto
+  width:1px
+  height:1px
+  overflow:hidden
+  z-index:-999
+
+.skipnav:active, .skipnav:focus
+  color: #fff
+  background-color:#000
+  left: auto
+  top: auto
+  width: 30%
+  height: auto
+  overflow:auto
+  margin: 10px 35%
+  padding:5px
+  border-radius: 15px
+  border:4px solid yellow
+  text-align:center
+  font-size:1.2em
+  z-index:999
