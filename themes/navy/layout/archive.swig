@@ -1,5 +1,5 @@
 {% set page.title = 'News' %}
-<div id="content-wrap" tabindex="-1">
+<div id="content-wrap" role="main" tabindex="-1">
   <div class="blog-hero-banner"></div>
   <div class="wrapper">
     <div class="inner">
