@@ -4,10 +4,10 @@
   color: rgba(255, 255, 255, 0.6)
   font-family: font-title
   position: relative
+  display: block
+  margin: 0 auto
   background: color-navy
   text-align: center
-  @media mq-normal
-    text-align: left
   @media print
     display: none
   a
@@ -19,17 +19,11 @@
       color: #fff
 
 #footer-copyright
-  line-height: 1.4
-  @media mq-normal
-    float: left
   a
     font-weight: bold
 
-#footer-links
-  margin-top: 1em
-  @media mq-normal
-    float: right
-    margin-top: 0
+#footer-copyright, #footer-social-links, #footer-links
+  padding: 15px 0
 
 .footer-link
   font-size: 30px
