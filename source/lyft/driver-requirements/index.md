@@ -21,7 +21,7 @@ Lyft requires you are at least 21 years old with 1+ year of US driving. They don
 You will need at least 1 year driving in the US. Even if you have driven for a long time in other countries, Lyft won't count that.
 
 ### Lyft Driver Required Records
-![drivers license](/img/example-drivers-license.png)
+![drivers license](/img/lyft-driver-license.png)
 The cool thing is, the records required for Lyft drivers, are pretty simple. You will have to provide these at the time you submit.
 
 * Valid U.S. driver's license.

@@ -41,7 +41,7 @@ Read the detailed list of [Uber vehicle requirements](/uber/vehicle-requirements
 
 ## How Do Uber Drivers Get Paid?
 ![uber driver pay and expenses](/img/uber-driver-pay-expenses.png)
-Uber pays drivers each week. If you want to become an Uber driver, this alone is a great reason. Uber does have a second pay options.
+Uber pays drivers each week. If you want to become an Uber driver, this alone is a great reason. Uber does have a second pay option.
 
 * Direct deposit.
 * Instant Pay.
