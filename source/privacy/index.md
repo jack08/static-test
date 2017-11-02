@@ -1,4 +1,5 @@
 title: Privacy Policy
+date: 10-19-2017
 ---
 
 Your privacy is very important to us. Accordingly, we have developed this policy in order for you to understand how

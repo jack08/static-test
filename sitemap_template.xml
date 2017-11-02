@@ -3,8 +3,8 @@
   {% for post in posts %}
   <url>
     <loc>{{ post.permalink | uriencode }}</loc>
-    {% if post.last_updated %}
-    <lastmod>{{ post.last_updated.toISOString() }}</lastmod>
+    {% if post.updated %}
+    <lastmod>{{ post.updated.toISOString() }}</lastmod>
     {% elif post.date %}
     <lastmod>{{ post.date.toISOString() }}</lastmod>
     {% endif %}
@@ -13,8 +13,8 @@
   {% for page in pages %}
   <url>
     <loc>{{ page.permalink | uriencode }}</loc>
-    {% if page.last_updated %}
-    <lastmod>{{ page.last_updated.toISOString() }}</lastmod>
+    {% if page.updated %}
+    <lastmod>{{ page.updated.toISOString() }}</lastmod>
     {% elif page.date %}
     <lastmod>{{ page.date.toISOString() }}</lastmod>
     {% endif %}

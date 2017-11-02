@@ -1,4 +1,6 @@
 title: Guide To Becoming a Driver For Lyft
+date: 9-29-2017
+updated: 11-2-2017
 comments: false
 ---
 

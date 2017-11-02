@@ -3,9 +3,9 @@
   <title>{% if page.title %}{{ page.title }} | {% endif %}{{ config.title }}</title>
   <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="robots" content="noindex,follow"/>
-  <meta name="author" content="UberLyfter" />
-  <link rel="publisher" href="" />
+  <meta name="robots" content="noindex,follow">
+  <meta name="author" content="UberLyfter">
+  <link rel="publisher" href="https://plus.google.com/102777576696764296596">
   <!-- Canonical links -->
   {{ autoCanonical(config, page) }}
   <!-- Icon -->
@@ -30,7 +30,7 @@
   <!-- build:css build/css/navy.css -->
   {{ css('css/navy') }}
   <!-- endbuild -->
-  <link href="/css/lato.css" rel="stylesheet" type="text/css">
+  <link rel="stylesheet" href="/css/lato.css">
   <link rel="stylesheet" href="/css/font-awesome.min.css">
   <!-- RSS -->
   {{ feed_tag('atom.xml') }}

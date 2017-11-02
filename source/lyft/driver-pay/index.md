@@ -1,4 +1,6 @@
 title: Guide To Lyft Driver Pay
+date: 10-25-2017
+updated: 10-31-2017
 comments: false
 ---
 

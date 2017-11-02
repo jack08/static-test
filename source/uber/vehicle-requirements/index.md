@@ -1,4 +1,6 @@
 title: Guide To Uber Vehicle Requirements
+date: 10-25-2017
+updated: 10-26-2017
 comments: false
 ---
 

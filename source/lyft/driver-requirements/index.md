@@ -1,4 +1,6 @@
 title: Guide To Lyft Driver Requirements
+date: 10-25-2017
+updated: 11-2-2017
 comments: false
 ---
 Want to become a Lyft driver?  First off, take note that requirements differ from state to state. Don't worry. Let's look at the main terms you need to know.

@@ -3,6 +3,7 @@ subtitle: "."
 description: ""
 author: UberLyfter
 language: en
+date_format: MM-DD-YYYY
 timezone: UTC
 
 url: https://www.uberlyfter.com

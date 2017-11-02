@@ -1,4 +1,6 @@
 title: About UberLyfter
+date: 10-5-2017
+updated: 10-19-2017
 ---
 
 UberLyfter was founded to provide helpful resources for new or aspiring ridesharing drivers. We're here to help people create their own success, and find work on _their_ own terms.

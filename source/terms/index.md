@@ -1,4 +1,5 @@
 title: Terms of Use
+date: 10-19-2017
 ---
 
 uberlyfter.com is owned and operated by and may contain advertisements, sponsored content, paid insertions, affiliate links or other forms of monetization. uberlyfter.com abides by word of mouth marketing standards. We believe in honesty of relationship, opinion and identity. The compensation received may influence the advertising content, topics or posts made in this

@@ -1,4 +1,6 @@
 title: Guide To Lyft Vehicle Requirements
+date: 10-25-2017
+updated: 10-30-2017
 comments: false
 ---
 

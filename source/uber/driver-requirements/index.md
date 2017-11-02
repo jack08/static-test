@@ -1,4 +1,6 @@
 title: Guide To Uber Driver Requirements
+date: 10-25-2017
+updated: 10-26-2017
 comments: false
 ---
 What does it take to become an Uber driver? First off, be aware that requirements differ in each state. They might even differ between cities within the same state! Don't let that scare you away. Most folks meet the terms to drive for Uber.

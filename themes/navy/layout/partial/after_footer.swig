@@ -1,5 +1,5 @@
 <!-- Scripts -->
-<script type="text/javascript" src="/js/jquery.min.js"></script>
+<script src="/js/jquery.min.js"></script>
 <!-- build:js build/js/main.js -->
 {{ js('js/toc') }}
 {{ js('js/mobile_nav') }}
