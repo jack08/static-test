@@ -3,7 +3,8 @@ date: 10-25-2017
 updated: 10-31-2017
 comments: false
 ---
-
+People say ride sharing pay is awesome. What can you really earn though? To make sense of it, we created a guide to Uber driver pay for you.
+<!-- more -->
 ## What Do Uber Drivers Get Paid?
 
 Uber often mentions that drivers make as high as 25 dollars an hour.  In some cases, some drivers have seen $50+ per hour. That might sound pretty sweet, but hold on a minute!

@@ -3,6 +3,8 @@ date: 10-25-2017
 updated: 11-2-2017
 comments: false
 ---
+Unsure if you qualify to drive for Lyft? The conditions can be complex. We created a guide to Lyft driver requirements to make sense of it for you.
+<!-- more -->
 Want to become a Lyft driver?  First off, take note that requirements differ from state to state. Don't worry. Let's look at the main terms you need to know.
 
 ## Basic Lyft Driver Requirements

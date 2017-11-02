@@ -3,7 +3,8 @@ date: 10-25-2017
 updated: 10-30-2017
 comments: false
 ---
-
+Does your car qualify for Lyft? Check out our guide to Lyft vehicle requirements to quickly get started driving and earning.
+<!-- more -->
 ## Lyft Vehicle Requirements
 Lyft requires a four door car that is 2005 or newer. Even if you have a sweet 2 door sports car, they won't accept it.
 

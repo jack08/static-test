@@ -3,7 +3,8 @@ date: 10-25-2017
 updated: 10-31-2017
 comments: false
 ---
-
+Unsure if you can make a good living driving for Lyft? People claim big numbers. What can you really earn though? Here's our guide to Lyft driver pay.
+<!-- more -->
 ## What Do Lyft Drivers Get Paid?
 
 Lyft often claims drivers make as high as 35 dollars an hour. That sounds great but, we have to consider factors like cost as well. Lots of drivers don't mention the **cost of driving**. You might be lucky enough to hit $35 an hour, but it will take a LOT of work. Let's look at costs involved, and figure out a realistic pay range.

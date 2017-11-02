@@ -3,7 +3,8 @@ date: 9-29-2017
 updated: 11-2-2017
 comments: false
 ---
-
+As a beginner, the ride-sharing game is tough. We put together a guide towards becoming a Lyft driver, just for YOU! Let's break down the requirements.
+<!-- more -->
 ## Guide To Becoming a Driver For Lyft
 ![people becoming Lyft drivers](/img/become-a-lyft-driver.png)
 Finding the perfect job these days can be, well, difficult. This is an understatement for some on the hunt. But if flexibility and fast cash are requirements on your list, then we might have your answer: Drive with Lyft. There are a lot of incentives, here’s why:

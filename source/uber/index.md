@@ -4,7 +4,9 @@ date: 9-29-2017
 updated: 11-2-2017
 comments: false
 ---
-So you want to become an Uber driver? Cool! It's a freeing life style. Drive on _your_ terms, with the freedom to earn a good living. At first it sounds great getting into the ride-sharing game....and you start staring at lists of requirements. Ugh!
+So you want to become an Uber driver? Getting started seems hard. Here's our guide to becoming an Uber driver, to help you blast through the process!
+<!-- more -->
+At first it sounds great getting into the ride-sharing game....and you start staring at lists of requirements. Ugh!
 
 It's tough making sense of what to do to get started. Don't worry. We'll chart it out for you and help make sense of things.
 
