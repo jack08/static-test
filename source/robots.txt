@@ -1,8 +1,2 @@
-User-agent: Mediapartners-Google
-Allow: /
-
-User-agent: SemrushBot
-Allow: /
-
 User-agent: *
-Disallow: /
+Allow: /

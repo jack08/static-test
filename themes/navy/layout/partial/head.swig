@@ -3,7 +3,6 @@
   <title>{% if page.title %}{{ page.title }} | {% endif %}{{ config.title }}</title>
   <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="robots" content="noindex,follow">
   <meta name="author" content="UberLyfter">
   <link rel="publisher" href="https://plus.google.com/102777576696764296596">
   <!-- Canonical links -->
@@ -58,7 +57,7 @@
   "email": "info@uberlyfter.com"
   },
   "sameAs": [
-  "https://twitter.com/",
+  "https://twitter.com/ride_resources",
   "https://www.facebook.com/UberLyfter-528322824180125/",
   "https://plus.google.com/102777576696764296596",
   "https://www.youtube.com/channel/UCoQkAc63HoNtSAq6hidSetA",
