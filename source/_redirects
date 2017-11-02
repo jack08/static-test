@@ -1,3 +1,4 @@
 /index.html / 301!
 /*/index.html /:splat/ 301!
 /*/*/index.html /:splat/:splat/ 301!
+/blog/2017/* /blog/ 301!
