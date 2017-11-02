@@ -7,8 +7,11 @@
         <a href="{{ url_for(post.path) }}" class="article-title" itemprop="name">{{ post.title }}</a>
       </h1>
     {% endif %}
-    <span>{{ time_tag(post.date) }}</span>
   </header>
+  <div class="post-meta">
+    <span>By UberLyfter</span> |
+    <span>Published: {{ time_tag(post.date) }}</span>
+  </div>
   <div class="article-content" itemprop="articleBody">
     {{ page_anchor(post.content) }}
   </div>
