@@ -3,9 +3,8 @@ date: 10-25-2017
 updated: 10-26-2017
 comments: false
 ---
-
-Trying to figure out the Uber vehicle requirements can be tough. UberX, XL, Select...what does it all mean?! Don't worry. Let's look at the details so you can figure out what class your car fits into.
-
+Figuring out Uber vehicle requirements can be tough. Don't worry. We put together a guide to help you figure out what class your car fits into.
+<!-- more -->
 ## Basic Uber Vehicle Requirements
 Uber requires vehicles that meet certain rules. Your car needs to be on the approved list. The car needs to be a newer 4 door car, and meet certain license terms. This is the list of details.
 
