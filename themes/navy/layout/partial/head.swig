@@ -29,7 +29,6 @@
   <!-- build:css build/css/navy.css -->
   {{ css('css/navy') }}
   <!-- endbuild -->
-  <link rel="stylesheet" href="/css/lato.css">
   <link rel="stylesheet" href="/css/font-awesome.min.css">
   <!-- RSS -->
   {{ feed_tag('atom.xml') }}
