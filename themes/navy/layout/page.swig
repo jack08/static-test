@@ -9,10 +9,11 @@
                 <h1 class="article-title" itemprop="name">{{ page.title }}</h1>
               </header>
               {{ partial('partial/adsense') }}
-              {{ partial('partial/page_ads') }}
+              {{ partial('partial/page_header_ad') }}
               <div class="article-content" itemprop="articleBody">
                 {{ page_anchor(page.content) }}
               </div>
+              {{ partial('partial/page_footer_ad') }}
               <footer class="article-footer">
                 <time class="article-footer-updated" datetime="{{ date_xml(page.updated) }}" itemprop="dateModified">{{ __('page.last_updated', date(page.updated)) }}</time>
                 {{ page_nav() }}
