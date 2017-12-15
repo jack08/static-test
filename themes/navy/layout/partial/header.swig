@@ -1,8 +1,8 @@
 <header id="header" class="wrapper">
   <div id="header-inner" class="inner">
-    <h1 id="logo-wrap">
+    <div id="logo-wrap">
       <a href="{{ url_for_lang('') }}" id="logo">UberLyfter</a>
-    </h1>
+    </div>
     <nav id="main-nav">
       {{ header_menu('main-nav') }}
     </nav>
